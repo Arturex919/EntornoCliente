@@ -7,7 +7,6 @@ export default function App() {
     return (
         <>
             <Header />
-
             <Profile
                 name="Arturo"
                 age={23}
